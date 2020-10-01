@@ -6,3 +6,4 @@ class Solution:
                 a=a+1
         
         return a
+# this is a project too from MC prasad
